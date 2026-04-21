@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-20)
+## Unreleased (2026-04-21)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`e386223`](https://github.com/stdlib-js/stdlib/commit/e3862232d075065e24d38ab17c4a5676d99eeb13) - **chore:** clean-up native wrappers to ensure consistency with documented return value _(by Athan Reines)_
 -   [`f3dfe11`](https://github.com/stdlib-js/stdlib/commit/f3dfe11d51efdea95678b1d4a4c3f246d7883598) - **docs:** update descriptions _(by Athan Reines)_
 
 </details>
