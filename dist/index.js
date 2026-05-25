@@ -1,23 +1,5 @@
+"use strict";var t=function(s,r){return function(){return r||s((r={exports:{}}).exports,r),r.exports}};var i=t(function(c,e){
+var a=require("path").resolve,u=a(__dirname,"..","include");e.exports=u
+});var v=i();module.exports=v;
 /** @license Apache-2.0 */
-
-'use strict';
-
-/**
-* Absolute file path for the directory containing header files for C APIs.
-*
-* @module @stdlib/napi-argv-strided-complex64array2d
-*
-* @example
-* var headerDir = require( '@stdlib/napi-argv-strided-complex64array2d' );
-*
-* console.log( headerDir );
-*/
-
-// MODULES //
-
-var main = require( './main.js' );
-
-
-// EXPORTS //
-
-module.exports = main;
+//# sourceMappingURL=index.js.map
